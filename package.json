@@ -1,12 +1,13 @@
 {
-  "name": "nesitya",
-  "version": "1.0.50",
+  "name": "elysia-nest-style",
+  "version": "1.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "bun run --watch src/index.ts"
+    "dev": "bun run --watch src/main.ts"
   },
   "dependencies": {
-    "elysia": "latest"
+    "elysia": "latest",
+    "reflect-metadata": "^0.2.2"
   },
   "devDependencies": {
     "bun-types": "latest"
