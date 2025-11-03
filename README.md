@@ -85,7 +85,6 @@ src/
     http/
   modules/
     users/
-  app/
 ```
 
 ---
